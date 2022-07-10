@@ -1,0 +1,8 @@
+{
+    "editor.linkedEditing": true,
+    "emmet.triggerExpansionOnTab": true,
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on"
+    }
+}
